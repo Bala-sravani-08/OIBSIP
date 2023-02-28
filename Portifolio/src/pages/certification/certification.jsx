@@ -1,10 +1,11 @@
 import React from "react";
 import "./Certification.css";
-import python from '../../assets/python.jpg'
-import cyberSecurity from '../../assets/cyberSecurity.jpg'
-import js from '../../assets/js.jpg'
-import nptel from '../../assets/nptel.jpg'
-import django from '../../assets/django.jpg'
+import python from '../../assets/python.png'
+import cyberSecurity from '../../assets/cyberSecurity.png'
+import js from '../../assets/js.png'
+import java from '../../assets/java.png'
+import iot from '../../assets/iot.png'
+import ai from '../../assets/ai.png'
 const Certification = () => {
   return (
     <div className="certi-div">
@@ -16,28 +17,28 @@ const Certification = () => {
           title2="Intelligence"
           company="Pantech learning"
           date="07/2022 - 02-2022"
-          imge={nptel}
+          imge={ai}
         />
         <CertificatesCard
-          title1="Java Object "
-          title2="Oriented programming"
+          title1="Java  "
+          title2="OOPS"
           company="Linked in Learning"
           date="08/2022- 11/2022"
-          imge="https://wallpapercave.com/wp/wp25995947.jpg"
+          imge={java}
         />
         <CertificatesCard
           title1="python For"
           title2="Begginers"
           company="Udemy"
           date="11/2022-11/2022"
-          imge={python}
+          imge={js}
         />
         <CertificatesCard
           title1="Introduction To "
           title2="Internet of things"
           company="Infosys SpringBoard"
           date="08/2022-08/2022"
-          imge ={js}
+          imge ={iot}
         />
         <CertificatesCard
           title1="Program Essentails"
@@ -73,7 +74,7 @@ const CertificatesCard = (props) => {
             </div>
             <div className="flip-card-back">
               <img
-                style={{ width: "350px", height: "200px" }}
+                style={{ width: "320px", height: "200px" }}
                 className="back-img"
                 src={props.imge}
                 alt=""
