@@ -4,7 +4,7 @@ import Profile from '../../assets/pic.jpeg'
 const About = () => {
   return (
     <div className='about-div'>
-      <h1>Tammireddy BalaSravani</h1>
+      <h1>Tammireddi BalaSravani</h1>
       <h3 style={{"color":"aqua"}}>Front-end Developer</h3>
       <div className='info-div'>
           <img src="https://img.freepik.com/premium-vector/smiling-girl-avatar_102172-32.jpg" alt="profile" className='about-img' />
