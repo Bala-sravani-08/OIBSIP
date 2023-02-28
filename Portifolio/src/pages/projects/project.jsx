@@ -8,29 +8,6 @@ const Projects = () => {
       <section className="section">
         <div className="row">
         <div className="col-md-3">
-            <div className="card">
-              <div className="card-5 card-img"></div>
-              <div className="title">
-                <h3>Smart Dustbin using IoT</h3>
-                <h6>08/2022-10/2022</h6>
-                <p>
-                  Smart Dustbin using IoT. Waste Management at Remote Places
-                </p>
-                <button className="card-btn">More Details</button>
-              </div>
-            </div>
-          </div>
-         
-          <div className="col-md-3">
-            <div className="card">
-              <div className="card-2 card-img"></div>
-              <div className="title">
-                <h3>Smart Street Light System in Highways</h3>
-                <h6>08/2022-09/2022</h6>
-                <p>Decresing Power consumption in National Highways</p>
-                <button className="card-btn">More Details</button>
-              </div>
-            </div>
           </div>
           <div className="col-md-3">
             <div className="card">
@@ -62,13 +39,6 @@ const Projects = () => {
         <div className="row">
         <div className="col-md-3">
             <div className="card">
-              <div className="card-1 card-img"></div>
-              <div className="title">
-                <h3>StackOverFlow Clone Using React</h3>
-                <h6>01/2023-02/2023</h6>
-                <p>Using React I am done a StackOverFlow Clone website</p>
-                <button className="card-btn">More Details</button>
-              </div>
             </div>
           </div>
         </div>
