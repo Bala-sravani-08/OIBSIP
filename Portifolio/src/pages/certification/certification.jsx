@@ -12,32 +12,32 @@ const Certification = () => {
 
       <div className="row">
         <CertificatesCard
-          title1="Python For"
-          title2="Data Science"
-          company="Nptel"
+          title1="Artificial"
+          title2="Intelligence"
+          company="Pantech learning"
           date="07/2022 - 02-2022"
           imge={nptel}
         />
         <CertificatesCard
-          title1="Full Stack"
-          title2="Web Development"
-          company="Codinza"
+          title1="Java Object "
+          title2="Oriented programming"
+          company="Linked in Learning"
           date="08/2022- 11/2022"
           imge="https://wallpapercave.com/wp/wp25995947.jpg"
         />
         <CertificatesCard
-          title1="JavaScript For"
+          title1="python For"
           title2="Begginers"
           company="Udemy"
           date="11/2022-11/2022"
-          imge={js}
+          imge={python}
         />
         <CertificatesCard
           title1="Introduction To "
-          title2="Django"
+          title2="Internet of things"
           company="Infosys SpringBoard"
           date="08/2022-08/2022"
-          imge ={django}
+          imge ={js}
         />
         <CertificatesCard
           title1="Program Essentails"
