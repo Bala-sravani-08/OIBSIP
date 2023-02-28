@@ -23,7 +23,7 @@ const Academic = () => {
             <h5>2020-Pursuing</h5>
           </div>
           <div className="gpa">
-            <h5>9.4 <span>CGPA</span></h5>
+            <h5>9.35 <span>CGPA</span></h5>
           </div>
         </div>
           </div>
@@ -38,13 +38,13 @@ const Academic = () => {
             <h3>Mathmetice Physics <br /> Chemistry</h3>
           </div>
           <div className="clg">
-            <h5>SVKP & PV Jr College</h5>
+            <h5>Vignan junior College</h5>
           </div>
           <div className="year">
             <h5>2018-2020</h5>
           </div>
           <div className="gpa">
-            <h5>9.79 <span>CGPA</span></h5>
+            <h5>9.88 <span>CGPA</span></h5>
           </div>
         </div>
           </div>
@@ -57,13 +57,13 @@ const Academic = () => {
           <div className="data">
             <br />
             <div className="clg">
-              <h5>ZPP High School Tholeru</h5>
+              <h5>Sri Chaitanya School</h5>
             </div>
             <div className="year">
               <h5>2017-2018</h5>
             </div>
             <div className="gpa">
-              <h5>9.7 <span>CGPA</span></h5>
+              <h5>9.8 <span>CGPA</span></h5>
             </div>
             <br/>
             <br />
