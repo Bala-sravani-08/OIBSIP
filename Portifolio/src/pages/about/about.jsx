@@ -4,15 +4,15 @@ import Profile from '../../assets/pic.jpeg'
 const About = () => {
   return (
     <div className='about-div'>
-      <h1>Sheik Jameer Basha</h1>
-      <h3>Web <span>Designer</span> </h3>
+      <h1>Tammireddy BalaSravani</h1>
+      <h3 style={{"color":"aqua"}}>Front-end Developer</h3>
       <div className='info-div'>
-          <img src="https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-PNG-Image-File.png" alt="profile" className='about-img' />
+          <img src="https://img.freepik.com/premium-vector/smiling-girl-avatar_102172-32.jpg" alt="profile" className='about-img' />
 
         <div className='info'>
             <div className=' card '>
               <div className="info-p">
-                  <p> I am Jameer Basha. Currently Pursuing 3rd Btech in Vishnu Institute of Technology Bhimavaram
+                  <p> I am Bala Sravani. Currently Pursuing 3rd Btech in Vishnu Institute of Technology Bhimavaram
                 Self-motivated team player with two years of experience seeking a position as a lead web developer
                 with Next Generation Web Development where I can apply my advanced knowledge of web design 
                 with my leadership abilities to meet client needs and exceed their expectations.
